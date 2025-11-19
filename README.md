@@ -1,14 +1,29 @@
 # 💼 Judith-Nnodebe-Portfolio
 
-Hi, my name is Judith Nnodebe and I’m an aspiring Marketing Analyst. I’m passionate about blending analytics, creativity, and great storytelling to help brands grow in smart, data-driven ways.
-
-![](https://github.com/nnodebejudith/Judith-Nnodebe-Portfolio/blob/main/professional%20pic%202.png)
+Hi, my name is Judith Nnodebe, and I’m an aspiring Marketing Analyst passionate about blending analytics, creativity, and data storytelling to help brands grow in smarter, data-driven ways.
 
 
-This portfolio showcases projects i have built using :
+I work with tools like SQL | Python | Excel | Power BI | Looker Studio to pull data, evaluate performance, build dashboards, and turn insights into clear recommendations that support marketing strategy.
 
-- SQL 
-- Power BI 
-- Excel 
-- Office script 
-- Python
+
+## 🧰 Tools & Skills
+
+### Data & Analytics Tools
+
+* SQL (BigQuery, Snowflake)
+* Excel / Google Sheets
+* Python
+* Power BI
+* Looker Studio
+
+### Core Analyst Skills
+
+* Data cleaning
+* Data Pulling
+* Marketing performance analysis
+* ROAS, CPA, CTR, CVR, CPC tracking
+* A/B test evaluation
+* Attribution modeling
+* Funnel analysis
+* Dashboard building
+* Insight communication & storytelling
