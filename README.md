@@ -32,4 +32,4 @@ I work with tools like SQL | Python | Excel | Power BI | Looker Studio to pull d
 
 ## 📂 Featured Projects
 Below are selected analytical projects demonstrating how I approach real marketing problems from data cleaning to insights to recommendations :
-1. Marketing ROI Analysis — FreshBites
+1. [Marketing ROI Analysis — FreshBites](https://github.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites)
