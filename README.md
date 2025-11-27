@@ -8,7 +8,7 @@ Hi, my name is Judith Nnodebe, and I’m an aspiring Marketing Analyst passionat
 I work with tools like SQL | Python | Excel | Power BI | Looker Studio to pull data, evaluate performance, build dashboards, and turn insights into clear recommendations that support marketing strategy.
 
 
-## 🧰 Tools & Skills
+## Tools & Skills
 
 ### Data & Analytics Tools
 
@@ -30,6 +30,6 @@ I work with tools like SQL | Python | Excel | Power BI | Looker Studio to pull d
 * Dashboard building
 * Insight communication & storytelling
 
-## 📂 Featured Projects
+## Featured Projects
 Below are selected analytical projects demonstrating how I approach real marketing problems from data cleaning to insights to recommendations :
 1. [Marketing ROI Analysis — FreshBites](https://github.com/nnodebejudith/Marketing-ROI-Analysis-for-FreshBites)
