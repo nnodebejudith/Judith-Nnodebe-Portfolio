@@ -12,11 +12,9 @@ I work with tools like SQL | Python | Excel | Power BI | Looker Studio to pull d
 
 ### Data & Analytics Tools
 
-* SQL (BigQuery, Snowflake)
+* SQL (My SQL)
 * Excel / Google Sheets
-* Python
 * Power BI
-* Looker Studio
 
 ### Core Analyst Skills
 
